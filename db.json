@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "email": "json-serverik",
+      "password": "typicode"
+    },
+    {
+      "email": "93rafo@mail.ru",
+      "password": "123123",
+      "id": 2
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "matchBeetwen": "FC Barcelona -Real Betis",
+      "day": "29.03.20",
+      "time": "19:00"
+    },
+    {
+      "id": 2,
+      "matchBeetwen": "FC Barcelona -Real Betis",
+      "day": "22.03.20",
+      "time": "21:00"
+    },
+    {
+      "id": 3,
+      "matchBeetwen": "FC Barcelona -Atlético Madrid",
+      "day": "18.03.20",
+      "time": "23:00"
+    },
+    {
+      "id": 4,
+      "matchBeetwen": "FC Barcelona -Athletic Bilbao",
+      "day": "15.03.20",
+      "time": "18:00"
+    },
+    {
+      "id": 5,
+      "matchBeetwen": "FC Barcelona -Deportivo Alavés",
+      "day": "11.03.20",
+      "time": "22:00"
+    }
+  ]
+}

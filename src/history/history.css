@@ -1,0 +1,22 @@
+.photo {
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    background: url("../images/Joan_Gamper_1910_year.jpg") no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+}
+
+.textforhistory {
+    position: relative;
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    margin-left: 80px;
+    margin-top: 20px;
+
+}
+
+p{
+    position: absolute;
+}
